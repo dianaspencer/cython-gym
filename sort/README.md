@@ -1,5 +1,5 @@
-# Sorting algorithms
+# Benchmarks for sorting algorithms
 
-## Mergesort benchmarks
-![Alt text](benchmark_20180720_mergesort.svg)
-<img src="benchmark_20180720_mergesort.svg">
+## Mergesort
+![Alt text](./benchmark_20180720_mergesort.svg)
+<img src="./benchmark_20180720_mergesort.svg">
